@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: 'https://ui.adsabs.harvard.edu/public-libraries/sHUu1MclQgaV6oRt2fx_PQ'
 author_profile: true
 ---
 
