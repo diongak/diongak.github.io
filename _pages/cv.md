@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)

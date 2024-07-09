@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Contact"
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,9 +8,14 @@ redirect_from:
 ---
 
 Department of Astronomy
+
 The University of Texas at Austin
+
 2515 Speedway Blvd
+
 Austin, TX 78712, United States
 
+
 Office: PMA 16.216
-Email: [dgakis@utexas.edu](dgakis@utexas.edu)
+
+Email: [dgakis@utexas.edu](mailto:dgakis@utexas.edu)
