@@ -7,11 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-Department of Astronomy
-
-The University of Texas at Austin
-
-2515 Speedway Blvd
+Department of Astronomy // The University of Texas at Austin \\ 2515 Speedway Blvd
 
 Austin, TX 78712, United States
 
