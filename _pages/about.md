@@ -11,4 +11,4 @@ I'm Dionysis, an Astronomy graduate student at the University of Texas at Austin
 
 I'm originally from Patras, a small city in Greece, where I completed my BSc in Physics (University of Patras). In my free time, I enjoy playing and watching sports (mainly soccer and basketball), watching movies and TV series, reading and traveling.
 
-Feel free to browse the tabs above to learn more about my [research](https://diongak.github.io/research/) and [outreach efforts](https://diongak.github.io/contact/). You are welcome to [contact](https://diongak.github.io/contact/) me via email.
+Feel free to browse the tabs above to learn more about my [research](https://diongak.github.io/research/) and [outreach efforts](https://diongak.github.io/outreach/). You are welcome to [contact](https://diongak.github.io/contact/) me via email.
