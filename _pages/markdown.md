@@ -9,7 +9,7 @@ redirect_from:
 
 Department of Astronomy<br>
 The University of Texas at Austin<br>
-2515 Speedway Blvd<br>
+2515 Speedway Blvd.<br>
 Austin, TX 78712, United States
 
 
