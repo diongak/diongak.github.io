@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+A PDF of my CV is available [here]({{ site.baseurl }}/files/CV.pdf).
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
