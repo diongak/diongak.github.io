@@ -7,11 +7,13 @@ redirect_from:
   - /markdown.html
 ---
 
-Department of Astronomy 
-The University of Texas at Austin 
-2515 Speedway Blvd
+Department of Astronomy<br>
+The University of Texas at Austin<br>
+2515 Speedway Blvd<br>
 Austin, TX 78712, United States
 
+<br>
 
-Office: PMA 16.216
+Office: PMA 16.216<br>
 Email: [dgakis@utexas.edu](mailto:dgakis@utexas.edu)
+
