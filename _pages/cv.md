@@ -17,5 +17,5 @@ A PDF of my CV is available [here]({{ site.baseurl }}/files/CV.pdf).
 * Graduate student, Department of Astronomy, The University of Texas at Austin, 2024 - Present
 * Undergraduate Research Intern, National Observatory of Athens, 2024
 * Undergraduate Research Intern, Academia Sinica Institute of Astronomy and Astrophysics, 2022
-* Visiting Scholar, Blue Marble Space Institute of Science, 2021 - Present
+* Visiting Scholar, Blue Marble Space Institute of Science, 2021 - 2025
 * Research Associate, Blue Marble Space Institute of Science, 2021
