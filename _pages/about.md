@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Dionysis, an Astronomy graduate student at the University of Texas at Austin. My work focuses on stellar evolution, galactic archaeology and time-domain astrophysics. 
+I'm Dionysis, an Astronomy graduate student at the University of Texas at Austin. My work focuses on galactic archaeology, stellar spectroscopy and big datasets. 
 
 I'm originally from Patras, a small city in Greece, where I completed my B.Sc. in Physics (University of Patras). In my free time, I enjoy playing and watching sports (mainly soccer and basketball), watching movies and TV series, reading and traveling.
 
